@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<root>
+  <row id="1">
+    <quote>There is no remedy but to love more.</quote>
+    <source>Henry David Thoreau</source>
+    <dob-dod>1817-1862</dob-dod>
+    <category>romantic</category>
+  </row>
+  <row id="2">
+    <quote>Work is the curse of the drinking classes.</quote>
+    <source>Oscar Wilde</source>
+    <dob-dod>1854-1900</dob-dod>
+    <category>humourous</category>
+  </row>
+  <row id="3">
+    <quote>The paradise of the rich is made out of the hell of the poor.</quote>
+    <source>Victor Hugo</source>
+    <dob-dod>1802-1885</dob-dod>
+    <category>political</category>
+  </row>
+  <row id="4">
+    <quote>Religion is what keeps the poor from murdering the rich.</quote>
+    <source>Napoleon Bonaparte</source>
+    <dob-dod>1769-1821</dob-dod>
+    <category>political</category>
+  </row>
+</root>
